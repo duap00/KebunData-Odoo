@@ -1,0 +1,3575 @@
+🚀 CM4 Dashboard - Starting MySQL Monitoring...
+Press Ctrl+C to stop monitoring
+
+✅ Successfully connected to MySQL
+📝 Event logged: monitoring_started - CM4 dashboard monitoring started
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 18.5%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13364.4 KB
+📡 Network TX: 3929.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:45:28
+   CPU Temp: 54.53°C, CPU Usage: 18.5%
+🕒 Next update in 30 seconds... (Records: 1)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.6°C
+⚡ CPU Usage: 5.3%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13368.8 KB
+📡 Network TX: 3942.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:45:59
+   CPU Temp: 51.608°C, CPU Usage: 5.3%
+🕒 Next update in 30 seconds... (Records: 2)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 1.5%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13421.0 KB
+📡 Network TX: 3994.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:46:30
+   CPU Temp: 54.043°C, CPU Usage: 1.5%
+🕒 Next update in 30 seconds... (Records: 3)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 8.0%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13422.9 KB
+📡 Network TX: 3997.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:47:01
+   CPU Temp: 53.069°C, CPU Usage: 8.0%
+🕒 Next update in 30 seconds... (Records: 4)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 16.7%
+💾 Memory Usage: 12.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13467.5 KB
+📡 Network TX: 4043.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:47:32
+   CPU Temp: 53.556°C, CPU Usage: 16.7%
+🕒 Next update in 30 seconds... (Records: 5)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 38.1%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13500.6 KB
+📡 Network TX: 4079.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:48:03
+   CPU Temp: 55.017°C, CPU Usage: 38.1%
+🕒 Next update in 30 seconds... (Records: 6)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13511.3 KB
+📡 Network TX: 4095.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:48:34
+   CPU Temp: 55.017°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 7)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 40.7%
+💾 Memory Usage: 12.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13516.2 KB
+📡 Network TX: 4103.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:49:05
+   CPU Temp: 52.095°C, CPU Usage: 40.7%
+🕒 Next update in 30 seconds... (Records: 8)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 7.7%
+💾 Memory Usage: 11.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13523.3 KB
+📡 Network TX: 4114.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:49:36
+   CPU Temp: 52.582°C, CPU Usage: 7.7%
+🕒 Next update in 30 seconds... (Records: 9)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 4.5%
+💾 Memory Usage: 12.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13528.9 KB
+📡 Network TX: 4129.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:50:07
+   CPU Temp: 52.582°C, CPU Usage: 4.5%
+🕒 Next update in 30 seconds... (Records: 10)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 13.1%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13581.8 KB
+📡 Network TX: 4181.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:50:38
+   CPU Temp: 53.069°C, CPU Usage: 13.1%
+🕒 Next update in 30 seconds... (Records: 11)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 11.8%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13586.3 KB
+📡 Network TX: 4186.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:51:09
+   CPU Temp: 52.582°C, CPU Usage: 11.8%
+🕒 Next update in 30 seconds... (Records: 12)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 14.2%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13614.6 KB
+📡 Network TX: 4220.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:51:41
+   CPU Temp: 54.53°C, CPU Usage: 14.2%
+🕒 Next update in 30 seconds... (Records: 13)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 3.3%
+💾 Memory Usage: 12.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13620.0 KB
+📡 Network TX: 4231.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:52:12
+   CPU Temp: 53.556°C, CPU Usage: 3.3%
+🕒 Next update in 30 seconds... (Records: 14)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 11.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13623.9 KB
+📡 Network TX: 4237.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:52:43
+   CPU Temp: 52.095°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 15)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 6.5%
+💾 Memory Usage: 11.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13634.2 KB
+📡 Network TX: 4250.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:53:14
+   CPU Temp: 52.095°C, CPU Usage: 6.5%
+🕒 Next update in 30 seconds... (Records: 16)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 43.3%
+💾 Memory Usage: 11.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13658.6 KB
+📡 Network TX: 4282.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:53:45
+   CPU Temp: 54.53°C, CPU Usage: 43.3%
+🕒 Next update in 30 seconds... (Records: 17)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 5.8%
+💾 Memory Usage: 11.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13692.9 KB
+📡 Network TX: 4316.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:54:16
+   CPU Temp: 54.043°C, CPU Usage: 5.8%
+🕒 Next update in 30 seconds... (Records: 18)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 45.8%
+💾 Memory Usage: 12.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13758.3 KB
+📡 Network TX: 4371.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:54:47
+   CPU Temp: 54.043°C, CPU Usage: 45.8%
+🕒 Next update in 30 seconds... (Records: 19)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 6.8%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13832.5 KB
+📡 Network TX: 4424.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:55:18
+   CPU Temp: 52.095°C, CPU Usage: 6.8%
+🕒 Next update in 30 seconds... (Records: 20)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 54.5%
+💾 Memory Usage: 12.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13927.6 KB
+📡 Network TX: 4499.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:55:49
+   CPU Temp: 56.478°C, CPU Usage: 54.5%
+🕒 Next update in 30 seconds... (Records: 21)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 6.3%
+💾 Memory Usage: 12.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13968.4 KB
+📡 Network TX: 4536.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:56:20
+   CPU Temp: 54.53°C, CPU Usage: 6.3%
+🕒 Next update in 30 seconds... (Records: 22)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 26.1%
+💾 Memory Usage: 12.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 13987.9 KB
+📡 Network TX: 4559.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:56:51
+   CPU Temp: 55.017°C, CPU Usage: 26.1%
+🕒 Next update in 30 seconds... (Records: 23)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 58.4°C
+⚡ CPU Usage: 36.8%
+💾 Memory Usage: 12.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14074.7 KB
+📡 Network TX: 4614.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:57:22
+   CPU Temp: 58.426°C, CPU Usage: 36.8%
+🕒 Next update in 30 seconds... (Records: 24)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 58.4°C
+⚡ CPU Usage: 45.3%
+💾 Memory Usage: 13.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14152.3 KB
+📡 Network TX: 4666.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:57:53
+   CPU Temp: 58.426°C, CPU Usage: 45.3%
+🕒 Next update in 30 seconds... (Records: 25)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 59.9°C
+⚡ CPU Usage: 39.6%
+💾 Memory Usage: 13.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14233.6 KB
+📡 Network TX: 4716.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:58:24
+   CPU Temp: 59.887°C, CPU Usage: 39.6%
+🕒 Next update in 30 seconds... (Records: 26)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 58.4°C
+⚡ CPU Usage: 4.8%
+💾 Memory Usage: 13.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14299.4 KB
+📡 Network TX: 4765.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:58:55
+   CPU Temp: 58.426°C, CPU Usage: 4.8%
+🕒 Next update in 30 seconds... (Records: 27)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 13.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14315.6 KB
+📡 Network TX: 4776.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:59:26
+   CPU Temp: 56.478°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 28)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 22.4%
+💾 Memory Usage: 13.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14322.3 KB
+📡 Network TX: 4793.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 08:59:57
+   CPU Temp: 55.017°C, CPU Usage: 22.4%
+🕒 Next update in 30 seconds... (Records: 29)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 41.7%
+💾 Memory Usage: 12.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14354.5 KB
+📡 Network TX: 4847.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:00:28
+   CPU Temp: 56.478°C, CPU Usage: 41.7%
+🕒 Next update in 30 seconds... (Records: 30)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 59.4°C
+⚡ CPU Usage: 34.9%
+💾 Memory Usage: 12.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14430.8 KB
+📡 Network TX: 4889.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:00:59
+   CPU Temp: 59.4°C, CPU Usage: 34.9%
+🕒 Next update in 30 seconds... (Records: 31)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 57.5°C
+⚡ CPU Usage: 35.0%
+💾 Memory Usage: 14.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14515.9 KB
+📡 Network TX: 4936.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:01:30
+   CPU Temp: 57.452°C, CPU Usage: 35.0%
+🕒 Next update in 30 seconds... (Records: 32)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 59.4°C
+⚡ CPU Usage: 33.9%
+💾 Memory Usage: 15.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14597.4 KB
+📡 Network TX: 4993.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:02:01
+   CPU Temp: 59.4°C, CPU Usage: 33.9%
+🕒 Next update in 30 seconds... (Records: 33)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.5°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 14.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14646.6 KB
+📡 Network TX: 5026.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:02:32
+   CPU Temp: 55.504°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 34)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14648.2 KB
+📡 Network TX: 5029.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:03:03
+   CPU Temp: 53.069°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 35)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14659.8 KB
+📡 Network TX: 5040.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:03:34
+   CPU Temp: 52.582°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 36)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 49.7°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14661.6 KB
+📡 Network TX: 5050.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:04:05
+   CPU Temp: 49.66°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 37)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 49.7°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14676.7 KB
+📡 Network TX: 5066.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:04:36
+   CPU Temp: 49.66°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 38)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 49.7°C
+⚡ CPU Usage: 0.8%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14678.6 KB
+📡 Network TX: 5070.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:05:07
+   CPU Temp: 49.66°C, CPU Usage: 0.8%
+🕒 Next update in 30 seconds... (Records: 39)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 49.7°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14687.7 KB
+📡 Network TX: 5077.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:05:38
+   CPU Temp: 49.66°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 40)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 48.7°C
+⚡ CPU Usage: 3.8%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14694.3 KB
+📡 Network TX: 5091.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:06:09
+   CPU Temp: 48.686°C, CPU Usage: 3.8%
+🕒 Next update in 30 seconds... (Records: 41)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.7°C
+⚡ CPU Usage: 0.5%
+💾 Memory Usage: 12.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14698.2 KB
+📡 Network TX: 5095.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:06:40
+   CPU Temp: 47.712°C, CPU Usage: 0.5%
+🕒 Next update in 30 seconds... (Records: 42)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.7°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14713.3 KB
+📡 Network TX: 5109.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:07:12
+   CPU Temp: 47.712°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 43)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 48.2°C
+⚡ CPU Usage: 3.0%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14715.3 KB
+📡 Network TX: 5120.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:07:43
+   CPU Temp: 48.199°C, CPU Usage: 3.0%
+🕒 Next update in 30 seconds... (Records: 44)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 50.6°C
+⚡ CPU Usage: 37.3%
+💾 Memory Usage: 12.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14724.0 KB
+📡 Network TX: 5127.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:08:14
+   CPU Temp: 50.634°C, CPU Usage: 37.3%
+🕒 Next update in 30 seconds... (Records: 45)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 18.8%
+💾 Memory Usage: 12.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14725.8 KB
+📡 Network TX: 5131.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:08:45
+   CPU Temp: 52.582°C, CPU Usage: 18.8%
+🕒 Next update in 30 seconds... (Records: 46)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 3.0%
+💾 Memory Usage: 12.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14738.5 KB
+📡 Network TX: 5145.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:09:16
+   CPU Temp: 54.53°C, CPU Usage: 3.0%
+🕒 Next update in 30 seconds... (Records: 47)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 24.1%
+💾 Memory Usage: 12.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14740.5 KB
+📡 Network TX: 5155.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:09:47
+   CPU Temp: 52.095°C, CPU Usage: 24.1%
+🕒 Next update in 30 seconds... (Records: 48)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 3.7%
+💾 Memory Usage: 12.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14761.0 KB
+📡 Network TX: 5179.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:10:18
+   CPU Temp: 52.582°C, CPU Usage: 3.7%
+🕒 Next update in 30 seconds... (Records: 49)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 10.4%
+💾 Memory Usage: 12.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14796.3 KB
+📡 Network TX: 5223.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:10:49
+   CPU Temp: 54.53°C, CPU Usage: 10.4%
+🕒 Next update in 30 seconds... (Records: 50)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 0.7%
+💾 Memory Usage: 12.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14809.4 KB
+📡 Network TX: 5236.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:11:20
+   CPU Temp: 52.095°C, CPU Usage: 0.7%
+🕒 Next update in 30 seconds... (Records: 51)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.1°C
+⚡ CPU Usage: 7.8%
+💾 Memory Usage: 12.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14811.3 KB
+📡 Network TX: 5246.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:11:51
+   CPU Temp: 51.121°C, CPU Usage: 7.8%
+🕒 Next update in 30 seconds... (Records: 52)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 49.7°C
+⚡ CPU Usage: 3.7%
+💾 Memory Usage: 12.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14820.3 KB
+📡 Network TX: 5253.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:12:22
+   CPU Temp: 49.66°C, CPU Usage: 3.7%
+🕒 Next update in 30 seconds... (Records: 53)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 14.7%
+💾 Memory Usage: 13.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14832.8 KB
+📡 Network TX: 5271.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:12:53
+   CPU Temp: 52.582°C, CPU Usage: 14.7%
+🕒 Next update in 30 seconds... (Records: 54)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 14.6%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 14905.7 KB
+📡 Network TX: 5334.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:13:24
+   CPU Temp: 54.043°C, CPU Usage: 14.6%
+🕒 Next update in 30 seconds... (Records: 55)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 2.8%
+💾 Memory Usage: 13.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15045.6 KB
+📡 Network TX: 5409.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:13:55
+   CPU Temp: 54.043°C, CPU Usage: 2.8%
+🕒 Next update in 30 seconds... (Records: 56)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 3.0%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15138.4 KB
+📡 Network TX: 5485.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:14:26
+   CPU Temp: 53.069°C, CPU Usage: 3.0%
+🕒 Next update in 30 seconds... (Records: 57)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 2.0%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15297.1 KB
+📡 Network TX: 5664.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:14:57
+   CPU Temp: 53.069°C, CPU Usage: 2.0%
+🕒 Next update in 30 seconds... (Records: 58)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 5.3%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15361.7 KB
+📡 Network TX: 5719.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:15:28
+   CPU Temp: 54.043°C, CPU Usage: 5.3%
+🕒 Next update in 30 seconds... (Records: 59)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 11.6%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15441.6 KB
+📡 Network TX: 5796.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:15:59
+   CPU Temp: 52.582°C, CPU Usage: 11.6%
+🕒 Next update in 30 seconds... (Records: 60)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 10.6%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15469.3 KB
+📡 Network TX: 5820.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:16:30
+   CPU Temp: 53.556°C, CPU Usage: 10.6%
+🕒 Next update in 30 seconds... (Records: 61)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 4.3%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15514.7 KB
+📡 Network TX: 5870.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:17:01
+   CPU Temp: 53.556°C, CPU Usage: 4.3%
+🕒 Next update in 30 seconds... (Records: 62)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 5.0%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15542.7 KB
+📡 Network TX: 5895.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:17:32
+   CPU Temp: 54.043°C, CPU Usage: 5.0%
+🕒 Next update in 30 seconds... (Records: 63)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 33.3%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15582.7 KB
+📡 Network TX: 5936.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:18:03
+   CPU Temp: 56.478°C, CPU Usage: 33.3%
+🕒 Next update in 30 seconds... (Records: 64)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.0°C
+⚡ CPU Usage: 30.6%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15673.7 KB
+📡 Network TX: 5994.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:18:34
+   CPU Temp: 55.991°C, CPU Usage: 30.6%
+🕒 Next update in 30 seconds... (Records: 65)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 16.8%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15704.3 KB
+📡 Network TX: 6029.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:19:05
+   CPU Temp: 53.556°C, CPU Usage: 16.8%
+🕒 Next update in 30 seconds... (Records: 66)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15732.0 KB
+📡 Network TX: 6053.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:19:36
+   CPU Temp: 52.582°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 67)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 10.1%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15760.6 KB
+📡 Network TX: 6086.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:20:07
+   CPU Temp: 52.095°C, CPU Usage: 10.1%
+🕒 Next update in 30 seconds... (Records: 68)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 1.5%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15762.5 KB
+📡 Network TX: 6089.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:20:38
+   CPU Temp: 52.095°C, CPU Usage: 1.5%
+🕒 Next update in 30 seconds... (Records: 69)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15768.0 KB
+📡 Network TX: 6097.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:21:09
+   CPU Temp: 53.069°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 70)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 7.9%
+💾 Memory Usage: 13.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15871.9 KB
+📡 Network TX: 6192.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:21:41
+   CPU Temp: 54.53°C, CPU Usage: 7.9%
+🕒 Next update in 30 seconds... (Records: 71)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 18.5%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 15967.3 KB
+📡 Network TX: 6275.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:22:12
+   CPU Temp: 53.069°C, CPU Usage: 18.5%
+🕒 Next update in 30 seconds... (Records: 72)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 1.3%
+💾 Memory Usage: 13.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16026.6 KB
+📡 Network TX: 6331.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:22:43
+   CPU Temp: 52.582°C, CPU Usage: 1.3%
+🕒 Next update in 30 seconds... (Records: 73)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 28.8%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16119.4 KB
+📡 Network TX: 6407.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:23:14
+   CPU Temp: 52.582°C, CPU Usage: 28.8%
+🕒 Next update in 30 seconds... (Records: 74)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 31.5%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16176.5 KB
+📡 Network TX: 6468.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:23:45
+   CPU Temp: 54.043°C, CPU Usage: 31.5%
+🕒 Next update in 30 seconds... (Records: 75)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 1.2%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16254.7 KB
+📡 Network TX: 6536.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:24:16
+   CPU Temp: 53.069°C, CPU Usage: 1.2%
+🕒 Next update in 30 seconds... (Records: 76)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 3.8%
+💾 Memory Usage: 13.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16272.3 KB
+📡 Network TX: 6557.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:24:47
+   CPU Temp: 52.582°C, CPU Usage: 3.8%
+🕒 Next update in 30 seconds... (Records: 77)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 23.7%
+💾 Memory Usage: 13.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16274.3 KB
+📡 Network TX: 6560.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:25:18
+   CPU Temp: 53.069°C, CPU Usage: 23.7%
+🕒 Next update in 30 seconds... (Records: 78)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 10.1%
+💾 Memory Usage: 13.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16282.5 KB
+📡 Network TX: 6577.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:25:49
+   CPU Temp: 52.095°C, CPU Usage: 10.1%
+🕒 Next update in 30 seconds... (Records: 79)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 41.2%
+💾 Memory Usage: 13.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16327.5 KB
+📡 Network TX: 6622.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:26:20
+   CPU Temp: 55.017°C, CPU Usage: 41.2%
+🕒 Next update in 30 seconds... (Records: 80)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.0°C
+⚡ CPU Usage: 45.8%
+💾 Memory Usage: 13.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16383.4 KB
+📡 Network TX: 6676.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:26:51
+   CPU Temp: 55.991°C, CPU Usage: 45.8%
+🕒 Next update in 30 seconds... (Records: 81)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 57.5°C
+⚡ CPU Usage: 26.3%
+💾 Memory Usage: 13.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16464.3 KB
+📡 Network TX: 6724.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:27:22
+   CPU Temp: 57.452°C, CPU Usage: 26.3%
+🕒 Next update in 30 seconds... (Records: 82)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 57.5°C
+⚡ CPU Usage: 42.1%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16545.4 KB
+📡 Network TX: 6780.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:27:53
+   CPU Temp: 57.452°C, CPU Usage: 42.1%
+🕒 Next update in 30 seconds... (Records: 83)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 2.5%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16581.5 KB
+📡 Network TX: 6808.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:28:24
+   CPU Temp: 55.017°C, CPU Usage: 2.5%
+🕒 Next update in 30 seconds... (Records: 84)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 27.3%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16586.5 KB
+📡 Network TX: 6817.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:28:55
+   CPU Temp: 55.017°C, CPU Usage: 27.3%
+🕒 Next update in 30 seconds... (Records: 85)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16597.5 KB
+📡 Network TX: 6831.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:29:26
+   CPU Temp: 52.582°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 86)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 1.8%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16602.1 KB
+📡 Network TX: 6845.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:29:57
+   CPU Temp: 52.582°C, CPU Usage: 1.8%
+🕒 Next update in 30 seconds... (Records: 87)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 11.0%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16604.2 KB
+📡 Network TX: 6848.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:30:28
+   CPU Temp: 54.53°C, CPU Usage: 11.0%
+🕒 Next update in 30 seconds... (Records: 88)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.0°C
+⚡ CPU Usage: 33.4%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16653.8 KB
+📡 Network TX: 6900.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:30:59
+   CPU Temp: 55.991°C, CPU Usage: 33.4%
+🕒 Next update in 30 seconds... (Records: 89)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 1.5%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16669.2 KB
+📡 Network TX: 6917.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:31:30
+   CPU Temp: 54.043°C, CPU Usage: 1.5%
+🕒 Next update in 30 seconds... (Records: 90)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 0.8%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16682.3 KB
+📡 Network TX: 6943.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:32:01
+   CPU Temp: 53.556°C, CPU Usage: 0.8%
+🕒 Next update in 30 seconds... (Records: 91)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 11.0%
+💾 Memory Usage: 13.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16688.3 KB
+📡 Network TX: 6951.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:32:32
+   CPU Temp: 53.556°C, CPU Usage: 11.0%
+🕒 Next update in 30 seconds... (Records: 92)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 57.0°C
+⚡ CPU Usage: 50.4%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16745.9 KB
+📡 Network TX: 6998.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:33:03
+   CPU Temp: 56.965°C, CPU Usage: 50.4%
+🕒 Next update in 30 seconds... (Records: 93)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.5°C
+⚡ CPU Usage: 10.3%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16770.5 KB
+📡 Network TX: 7024.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:33:34
+   CPU Temp: 55.504°C, CPU Usage: 10.3%
+🕒 Next update in 30 seconds... (Records: 94)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 13.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16774.2 KB
+📡 Network TX: 7037.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:34:05
+   CPU Temp: 52.095°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 95)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.5°C
+⚡ CPU Usage: 61.5%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16887.8 KB
+📡 Network TX: 7172.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:34:36
+   CPU Temp: 55.504°C, CPU Usage: 61.5%
+🕒 Next update in 30 seconds... (Records: 96)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 20.1%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16931.3 KB
+📡 Network TX: 7215.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:35:07
+   CPU Temp: 54.043°C, CPU Usage: 20.1%
+🕒 Next update in 30 seconds... (Records: 97)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 3.5%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 16941.9 KB
+📡 Network TX: 7229.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:35:38
+   CPU Temp: 52.582°C, CPU Usage: 3.5%
+🕒 Next update in 30 seconds... (Records: 98)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 41.3%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17008.8 KB
+📡 Network TX: 7293.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:36:09
+   CPU Temp: 56.478°C, CPU Usage: 41.3%
+🕒 Next update in 30 seconds... (Records: 99)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17045.4 KB
+📡 Network TX: 7325.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:36:40
+   CPU Temp: 55.017°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 100)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.0°C
+⚡ CPU Usage: 21.5%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17057.4 KB
+📡 Network TX: 7342.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:37:12
+   CPU Temp: 55.991°C, CPU Usage: 21.5%
+🕒 Next update in 30 seconds... (Records: 101)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 4.8%
+💾 Memory Usage: 13.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17065.7 KB
+📡 Network TX: 7359.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:37:43
+   CPU Temp: 53.556°C, CPU Usage: 4.8%
+🕒 Next update in 30 seconds... (Records: 102)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 42.0%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17081.4 KB
+📡 Network TX: 7378.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:38:14
+   CPU Temp: 52.582°C, CPU Usage: 42.0%
+🕒 Next update in 30 seconds... (Records: 103)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.0°C
+⚡ CPU Usage: 33.7%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17163.9 KB
+📡 Network TX: 7448.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:38:45
+   CPU Temp: 55.991°C, CPU Usage: 33.7%
+🕒 Next update in 30 seconds... (Records: 104)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 11.0%
+💾 Memory Usage: 13.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17170.2 KB
+📡 Network TX: 7457.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:39:16
+   CPU Temp: 53.556°C, CPU Usage: 11.0%
+🕒 Next update in 30 seconds... (Records: 105)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 33.1%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17178.9 KB
+📡 Network TX: 7476.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:39:47
+   CPU Temp: 53.556°C, CPU Usage: 33.1%
+🕒 Next update in 30 seconds... (Records: 106)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 1.3%
+💾 Memory Usage: 13.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17180.8 KB
+📡 Network TX: 7479.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:40:18
+   CPU Temp: 52.582°C, CPU Usage: 1.3%
+🕒 Next update in 30 seconds... (Records: 107)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 15.0%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17214.0 KB
+📡 Network TX: 7515.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:40:49
+   CPU Temp: 56.478°C, CPU Usage: 15.0%
+🕒 Next update in 30 seconds... (Records: 108)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 29.4%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17302.4 KB
+📡 Network TX: 7573.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:41:20
+   CPU Temp: 56.478°C, CPU Usage: 29.4%
+🕒 Next update in 30 seconds... (Records: 109)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 0.8%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17328.8 KB
+📡 Network TX: 7606.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:41:51
+   CPU Temp: 54.53°C, CPU Usage: 0.8%
+🕒 Next update in 30 seconds... (Records: 110)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.5°C
+⚡ CPU Usage: 2.3%
+💾 Memory Usage: 13.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17339.1 KB
+📡 Network TX: 7620.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:42:22
+   CPU Temp: 55.504°C, CPU Usage: 2.3%
+🕒 Next update in 30 seconds... (Records: 111)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 11.8%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17345.0 KB
+📡 Network TX: 7629.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:42:53
+   CPU Temp: 54.043°C, CPU Usage: 11.8%
+🕒 Next update in 30 seconds... (Records: 112)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 1.8%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17349.8 KB
+📡 Network TX: 7636.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:43:24
+   CPU Temp: 53.556°C, CPU Usage: 1.8%
+🕒 Next update in 30 seconds... (Records: 113)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 38.8%
+💾 Memory Usage: 14.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17389.2 KB
+📡 Network TX: 7688.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:43:55
+   CPU Temp: 55.017°C, CPU Usage: 38.8%
+🕒 Next update in 30 seconds... (Records: 114)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17597.1 KB
+📡 Network TX: 7877.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:44:26
+   CPU Temp: 54.53°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 115)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.2°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17608.3 KB
+📡 Network TX: 7891.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:44:57
+   CPU Temp: 47.225°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 116)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 48.7°C
+⚡ CPU Usage: 0.3%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17613.0 KB
+📡 Network TX: 7897.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:45:28
+   CPU Temp: 48.686°C, CPU Usage: 0.3%
+🕒 Next update in 30 seconds... (Records: 117)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.2°C
+⚡ CPU Usage: 0.3%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17621.4 KB
+📡 Network TX: 7914.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:45:59
+   CPU Temp: 47.225°C, CPU Usage: 0.3%
+🕒 Next update in 30 seconds... (Records: 118)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 50.6°C
+⚡ CPU Usage: 5.5%
+💾 Memory Usage: 13.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17731.4 KB
+📡 Network TX: 7989.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:46:30
+   CPU Temp: 50.634°C, CPU Usage: 5.5%
+🕒 Next update in 30 seconds... (Records: 119)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 35.5%
+💾 Memory Usage: 13.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17769.6 KB
+📡 Network TX: 8033.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:47:01
+   CPU Temp: 54.043°C, CPU Usage: 35.5%
+🕒 Next update in 30 seconds... (Records: 120)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.5°C
+⚡ CPU Usage: 33.7%
+💾 Memory Usage: 13.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17851.5 KB
+📡 Network TX: 8086.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:47:32
+   CPU Temp: 55.504°C, CPU Usage: 33.7%
+🕒 Next update in 30 seconds... (Records: 121)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.0°C
+⚡ CPU Usage: 31.5%
+💾 Memory Usage: 14.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 17929.4 KB
+📡 Network TX: 8146.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:48:03
+   CPU Temp: 55.991°C, CPU Usage: 31.5%
+🕒 Next update in 30 seconds... (Records: 122)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 58.9°C
+⚡ CPU Usage: 30.3%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18061.8 KB
+📡 Network TX: 8227.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:48:34
+   CPU Temp: 58.913°C, CPU Usage: 30.3%
+🕒 Next update in 30 seconds... (Records: 123)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 9.5%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18115.6 KB
+📡 Network TX: 8267.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:49:05
+   CPU Temp: 53.556°C, CPU Usage: 9.5%
+🕒 Next update in 30 seconds... (Records: 124)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.6°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18132.9 KB
+📡 Network TX: 8287.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:49:36
+   CPU Temp: 51.608°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 125)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 49.7°C
+⚡ CPU Usage: 1.5%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18136.9 KB
+📡 Network TX: 8299.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:50:07
+   CPU Temp: 49.66°C, CPU Usage: 1.5%
+🕒 Next update in 30 seconds... (Records: 126)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 48.7°C
+⚡ CPU Usage: 0.5%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18144.4 KB
+📡 Network TX: 8311.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:50:38
+   CPU Temp: 48.686°C, CPU Usage: 0.5%
+🕒 Next update in 30 seconds... (Records: 127)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 48.7°C
+⚡ CPU Usage: 0.3%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18150.4 KB
+📡 Network TX: 8331.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:51:10
+   CPU Temp: 48.686°C, CPU Usage: 0.3%
+🕒 Next update in 30 seconds... (Records: 128)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 48.7°C
+⚡ CPU Usage: 0.7%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18155.7 KB
+📡 Network TX: 8337.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:51:41
+   CPU Temp: 48.686°C, CPU Usage: 0.7%
+🕒 Next update in 30 seconds... (Records: 129)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 48.7°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18162.0 KB
+📡 Network TX: 8347.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:52:12
+   CPU Temp: 48.686°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 130)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.2°C
+⚡ CPU Usage: 1.8%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18167.4 KB
+📡 Network TX: 8353.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:52:43
+   CPU Temp: 47.225°C, CPU Usage: 1.8%
+🕒 Next update in 30 seconds... (Records: 131)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 46.3°C
+⚡ CPU Usage: 0.5%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18172.6 KB
+📡 Network TX: 8367.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:53:14
+   CPU Temp: 46.251°C, CPU Usage: 0.5%
+🕒 Next update in 30 seconds... (Records: 132)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 46.7°C
+⚡ CPU Usage: 0.3%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18175.9 KB
+📡 Network TX: 8371.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:53:45
+   CPU Temp: 46.738°C, CPU Usage: 0.3%
+🕒 Next update in 30 seconds... (Records: 133)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.2°C
+⚡ CPU Usage: 0.7%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18179.6 KB
+📡 Network TX: 8377.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:54:16
+   CPU Temp: 47.225°C, CPU Usage: 0.7%
+🕒 Next update in 30 seconds... (Records: 134)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 46.7°C
+⚡ CPU Usage: 0.2%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18181.1 KB
+📡 Network TX: 8380.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:54:47
+   CPU Temp: 46.738°C, CPU Usage: 0.2%
+🕒 Next update in 30 seconds... (Records: 135)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.2°C
+⚡ CPU Usage: 0.5%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18188.6 KB
+📡 Network TX: 8396.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:55:18
+   CPU Temp: 47.225°C, CPU Usage: 0.5%
+🕒 Next update in 30 seconds... (Records: 136)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.7°C
+⚡ CPU Usage: 0.5%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18191.1 KB
+📡 Network TX: 8400.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:55:49
+   CPU Temp: 47.712°C, CPU Usage: 0.5%
+🕒 Next update in 30 seconds... (Records: 137)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.2°C
+⚡ CPU Usage: 0.2%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18193.8 KB
+📡 Network TX: 8404.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:56:20
+   CPU Temp: 47.225°C, CPU Usage: 0.2%
+🕒 Next update in 30 seconds... (Records: 138)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 46.7°C
+⚡ CPU Usage: 0.8%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18195.9 KB
+📡 Network TX: 8408.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:56:51
+   CPU Temp: 46.738°C, CPU Usage: 0.8%
+🕒 Next update in 30 seconds... (Records: 139)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.7°C
+⚡ CPU Usage: 0.3%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18200.8 KB
+📡 Network TX: 8421.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:57:22
+   CPU Temp: 47.712°C, CPU Usage: 0.3%
+🕒 Next update in 30 seconds... (Records: 140)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 46.3°C
+⚡ CPU Usage: 0.5%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18202.3 KB
+📡 Network TX: 8423.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:57:53
+   CPU Temp: 46.251°C, CPU Usage: 0.5%
+🕒 Next update in 30 seconds... (Records: 141)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 46.7°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18207.1 KB
+📡 Network TX: 8431.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:58:24
+   CPU Temp: 46.738°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 142)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 46.7°C
+⚡ CPU Usage: 2.5%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18209.8 KB
+📡 Network TX: 8435.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:58:55
+   CPU Temp: 46.738°C, CPU Usage: 2.5%
+🕒 Next update in 30 seconds... (Records: 143)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 46.7°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18211.9 KB
+📡 Network TX: 8444.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:59:26
+   CPU Temp: 46.738°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 144)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 49.2°C
+⚡ CPU Usage: 20.8%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18217.3 KB
+📡 Network TX: 8454.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 09:59:57
+   CPU Temp: 49.173°C, CPU Usage: 20.8%
+🕒 Next update in 30 seconds... (Records: 145)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 47.7°C
+⚡ CPU Usage: 4.8%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18222.2 KB
+📡 Network TX: 8471.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:00:28
+   CPU Temp: 47.712°C, CPU Usage: 4.8%
+🕒 Next update in 30 seconds... (Records: 146)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 50.6°C
+⚡ CPU Usage: 1.8%
+💾 Memory Usage: 13.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18334.1 KB
+📡 Network TX: 8622.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:00:59
+   CPU Temp: 50.634°C, CPU Usage: 1.8%
+🕒 Next update in 30 seconds... (Records: 147)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.6°C
+⚡ CPU Usage: 1.3%
+💾 Memory Usage: 13.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18341.6 KB
+📡 Network TX: 8634.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:01:30
+   CPU Temp: 51.608°C, CPU Usage: 1.3%
+🕒 Next update in 30 seconds... (Records: 148)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.1°C
+⚡ CPU Usage: 4.6%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18450.0 KB
+📡 Network TX: 8706.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:02:01
+   CPU Temp: 51.121°C, CPU Usage: 4.6%
+🕒 Next update in 30 seconds... (Records: 149)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 4.3%
+💾 Memory Usage: 12.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18569.6 KB
+📡 Network TX: 8796.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:02:32
+   CPU Temp: 52.095°C, CPU Usage: 4.3%
+🕒 Next update in 30 seconds... (Records: 150)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 21.3%
+💾 Memory Usage: 12.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18730.7 KB
+📡 Network TX: 8875.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:03:03
+   CPU Temp: 52.095°C, CPU Usage: 21.3%
+🕒 Next update in 30 seconds... (Records: 151)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 6.7%
+💾 Memory Usage: 12.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18750.1 KB
+📡 Network TX: 8902.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:03:34
+   CPU Temp: 52.095°C, CPU Usage: 6.7%
+🕒 Next update in 30 seconds... (Records: 152)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 31.8%
+💾 Memory Usage: 12.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18817.0 KB
+📡 Network TX: 8964.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:04:05
+   CPU Temp: 55.017°C, CPU Usage: 31.8%
+🕒 Next update in 30 seconds... (Records: 153)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.1°C
+⚡ CPU Usage: 5.6%
+💾 Memory Usage: 12.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18833.2 KB
+📡 Network TX: 8989.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:04:36
+   CPU Temp: 51.121°C, CPU Usage: 5.6%
+🕒 Next update in 30 seconds... (Records: 154)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 50.6°C
+⚡ CPU Usage: 11.7%
+💾 Memory Usage: 12.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18840.1 KB
+📡 Network TX: 8999.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:05:07
+   CPU Temp: 50.634°C, CPU Usage: 11.7%
+🕒 Next update in 30 seconds... (Records: 155)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.1°C
+⚡ CPU Usage: 1.2%
+💾 Memory Usage: 12.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18847.4 KB
+📡 Network TX: 9009.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:05:38
+   CPU Temp: 51.121°C, CPU Usage: 1.2%
+🕒 Next update in 30 seconds... (Records: 156)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 31.5%
+💾 Memory Usage: 12.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18901.2 KB
+📡 Network TX: 9052.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:06:10
+   CPU Temp: 53.556°C, CPU Usage: 31.5%
+🕒 Next update in 30 seconds... (Records: 157)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 16.6%
+💾 Memory Usage: 12.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18918.3 KB
+📡 Network TX: 9078.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:06:41
+   CPU Temp: 54.043°C, CPU Usage: 16.6%
+🕒 Next update in 30 seconds... (Records: 158)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 2.5%
+💾 Memory Usage: 12.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18925.8 KB
+📡 Network TX: 9088.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:07:12
+   CPU Temp: 52.095°C, CPU Usage: 2.5%
+🕒 Next update in 30 seconds... (Records: 159)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 50.1°C
+⚡ CPU Usage: 0.7%
+💾 Memory Usage: 11.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18930.7 KB
+📡 Network TX: 9094.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:07:43
+   CPU Temp: 50.147°C, CPU Usage: 0.7%
+🕒 Next update in 30 seconds... (Records: 160)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.6°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 12.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18937.8 KB
+📡 Network TX: 9104.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:08:14
+   CPU Temp: 51.608°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 161)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.6°C
+⚡ CPU Usage: 7.2%
+💾 Memory Usage: 12.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18946.2 KB
+📡 Network TX: 9123.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:08:45
+   CPU Temp: 51.608°C, CPU Usage: 7.2%
+🕒 Next update in 30 seconds... (Records: 162)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 50.6°C
+⚡ CPU Usage: 1.8%
+💾 Memory Usage: 11.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18964.9 KB
+📡 Network TX: 9142.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:09:16
+   CPU Temp: 50.634°C, CPU Usage: 1.8%
+🕒 Next update in 30 seconds... (Records: 163)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 47.5%
+💾 Memory Usage: 12.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 18992.2 KB
+📡 Network TX: 9172.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:09:47
+   CPU Temp: 54.043°C, CPU Usage: 47.5%
+🕒 Next update in 30 seconds... (Records: 164)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 15.3%
+💾 Memory Usage: 12.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 19046.6 KB
+📡 Network TX: 9218.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:10:18
+   CPU Temp: 54.043°C, CPU Usage: 15.3%
+🕒 Next update in 30 seconds... (Records: 165)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 16.6%
+💾 Memory Usage: 12.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 19056.9 KB
+📡 Network TX: 9241.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:10:49
+   CPU Temp: 53.556°C, CPU Usage: 16.6%
+🕒 Next update in 30 seconds... (Records: 166)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 39.2%
+💾 Memory Usage: 12.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 19124.1 KB
+📡 Network TX: 9302.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:11:20
+   CPU Temp: 56.478°C, CPU Usage: 39.2%
+🕒 Next update in 30 seconds... (Records: 167)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 2.0%
+💾 Memory Usage: 12.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 19146.3 KB
+📡 Network TX: 9328.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:11:51
+   CPU Temp: 53.069°C, CPU Usage: 2.0%
+🕒 Next update in 30 seconds... (Records: 168)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 34.5%
+💾 Memory Usage: 12.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 19169.3 KB
+📡 Network TX: 9356.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:12:22
+   CPU Temp: 55.017°C, CPU Usage: 34.5%
+🕒 Next update in 30 seconds... (Records: 169)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 15.7%
+💾 Memory Usage: 12.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 19227.6 KB
+📡 Network TX: 9403.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:12:53
+   CPU Temp: 54.53°C, CPU Usage: 15.7%
+🕒 Next update in 30 seconds... (Records: 170)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 2.8%
+💾 Memory Usage: 12.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 19230.5 KB
+📡 Network TX: 9407.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:13:24
+   CPU Temp: 54.043°C, CPU Usage: 2.8%
+🕒 Next update in 30 seconds... (Records: 171)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 7.1%
+💾 Memory Usage: 12.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 19249.1 KB
+📡 Network TX: 9428.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:13:55
+   CPU Temp: 53.556°C, CPU Usage: 7.1%
+🕒 Next update in 30 seconds... (Records: 172)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.5°C
+⚡ CPU Usage: 35.7%
+💾 Memory Usage: 14.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22222.4 KB
+📡 Network TX: 9692.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:14:26
+   CPU Temp: 55.504°C, CPU Usage: 35.7%
+🕒 Next update in 30 seconds... (Records: 173)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 1.5%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22234.8 KB
+📡 Network TX: 9716.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:14:57
+   CPU Temp: 53.556°C, CPU Usage: 1.5%
+🕒 Next update in 30 seconds... (Records: 174)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.0°C
+⚡ CPU Usage: 40.4%
+💾 Memory Usage: 13.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22279.1 KB
+📡 Network TX: 9757.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:15:28
+   CPU Temp: 55.991°C, CPU Usage: 40.4%
+🕒 Next update in 30 seconds... (Records: 175)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22288.4 KB
+📡 Network TX: 9770.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:15:59
+   CPU Temp: 53.069°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 176)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 1.3%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22304.0 KB
+📡 Network TX: 9791.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:16:30
+   CPU Temp: 53.069°C, CPU Usage: 1.3%
+🕒 Next update in 30 seconds... (Records: 177)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 8.3%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22310.6 KB
+📡 Network TX: 9808.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:17:01
+   CPU Temp: 52.582°C, CPU Usage: 8.3%
+🕒 Next update in 30 seconds... (Records: 178)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.1°C
+⚡ CPU Usage: 0.7%
+💾 Memory Usage: 13.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22317.6 KB
+📡 Network TX: 9817.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:17:32
+   CPU Temp: 51.121°C, CPU Usage: 0.7%
+🕒 Next update in 30 seconds... (Records: 179)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.6°C
+⚡ CPU Usage: 2.0%
+💾 Memory Usage: 13.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22329.8 KB
+📡 Network TX: 9835.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:18:03
+   CPU Temp: 51.608°C, CPU Usage: 2.0%
+🕒 Next update in 30 seconds... (Records: 180)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 18.0%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22384.3 KB
+📡 Network TX: 9893.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:18:34
+   CPU Temp: 54.53°C, CPU Usage: 18.0%
+🕒 Next update in 30 seconds... (Records: 181)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 12.3%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22388.6 KB
+📡 Network TX: 9899.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:19:05
+   CPU Temp: 52.582°C, CPU Usage: 12.3%
+🕒 Next update in 30 seconds... (Records: 182)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.6°C
+⚡ CPU Usage: 1.8%
+💾 Memory Usage: 13.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22394.1 KB
+📡 Network TX: 9906.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:19:36
+   CPU Temp: 51.608°C, CPU Usage: 1.8%
+🕒 Next update in 30 seconds... (Records: 183)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 3.8%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22454.0 KB
+📡 Network TX: 9961.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:20:07
+   CPU Temp: 53.069°C, CPU Usage: 3.8%
+🕒 Next update in 30 seconds... (Records: 184)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.1°C
+⚡ CPU Usage: 29.7%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22455.8 KB
+📡 Network TX: 9970.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:20:38
+   CPU Temp: 51.121°C, CPU Usage: 29.7%
+🕒 Next update in 30 seconds... (Records: 185)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 58.9%
+💾 Memory Usage: 13.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22463.9 KB
+📡 Network TX: 9984.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:21:10
+   CPU Temp: 52.095°C, CPU Usage: 58.9%
+🕒 Next update in 30 seconds... (Records: 186)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 15.6%
+💾 Memory Usage: 13.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22503.0 KB
+📡 Network TX: 10020.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:21:41
+   CPU Temp: 53.069°C, CPU Usage: 15.6%
+🕒 Next update in 30 seconds... (Records: 187)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 6.7%
+💾 Memory Usage: 14.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22545.3 KB
+📡 Network TX: 10064.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:22:12
+   CPU Temp: 56.478°C, CPU Usage: 6.7%
+🕒 Next update in 30 seconds... (Records: 188)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 48.8%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22597.0 KB
+📡 Network TX: 10120.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:22:43
+   CPU Temp: 55.017°C, CPU Usage: 48.8%
+🕒 Next update in 30 seconds... (Records: 189)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 20.3%
+💾 Memory Usage: 13.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22701.3 KB
+📡 Network TX: 10210.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:23:14
+   CPU Temp: 55.017°C, CPU Usage: 20.3%
+🕒 Next update in 30 seconds... (Records: 190)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 17.2%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22834.2 KB
+📡 Network TX: 10332.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:23:45
+   CPU Temp: 56.478°C, CPU Usage: 17.2%
+🕒 Next update in 30 seconds... (Records: 191)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 35.0%
+💾 Memory Usage: 14.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 22951.4 KB
+📡 Network TX: 10425.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:24:16
+   CPU Temp: 56.478°C, CPU Usage: 35.0%
+🕒 Next update in 30 seconds... (Records: 192)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 57.0°C
+⚡ CPU Usage: 12.0%
+💾 Memory Usage: 14.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 23098.9 KB
+📡 Network TX: 10543.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:24:47
+   CPU Temp: 56.965°C, CPU Usage: 12.0%
+🕒 Next update in 30 seconds... (Records: 193)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 0.2%
+💾 Memory Usage: 14.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 23109.4 KB
+📡 Network TX: 10558.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:25:18
+   CPU Temp: 55.017°C, CPU Usage: 0.2%
+🕒 Next update in 30 seconds... (Records: 194)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 2.0%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 23112.2 KB
+📡 Network TX: 10563.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:25:49
+   CPU Temp: 53.069°C, CPU Usage: 2.0%
+🕒 Next update in 30 seconds... (Records: 195)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 9.0%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 23124.2 KB
+📡 Network TX: 10579.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:26:20
+   CPU Temp: 53.556°C, CPU Usage: 9.0%
+🕒 Next update in 30 seconds... (Records: 196)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 17.2%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 23126.3 KB
+📡 Network TX: 10589.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:26:51
+   CPU Temp: 53.556°C, CPU Usage: 17.2%
+🕒 Next update in 30 seconds... (Records: 197)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 57.0°C
+⚡ CPU Usage: 57.7%
+💾 Memory Usage: 14.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 23175.0 KB
+📡 Network TX: 10635.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:27:22
+   CPU Temp: 56.965°C, CPU Usage: 57.7%
+🕒 Next update in 30 seconds... (Records: 198)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 59.4°C
+⚡ CPU Usage: 47.1%
+💾 Memory Usage: 14.8%
+💿 Disk Usage: 26.3%
+📡 Network RX: 23586.1 KB
+📡 Network TX: 10709.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:27:53
+   CPU Temp: 59.4°C, CPU Usage: 47.1%
+🕒 Next update in 30 seconds... (Records: 199)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 14.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24369.3 KB
+📡 Network TX: 10752.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:28:24
+   CPU Temp: 53.556°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 200)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24379.0 KB
+📡 Network TX: 10771.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:28:55
+   CPU Temp: 52.582°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 201)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 17.3%
+💾 Memory Usage: 14.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24387.5 KB
+📡 Network TX: 10784.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:29:26
+   CPU Temp: 53.556°C, CPU Usage: 17.3%
+🕒 Next update in 30 seconds... (Records: 202)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 25.2%
+💾 Memory Usage: 14.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24393.9 KB
+📡 Network TX: 10793.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:29:57
+   CPU Temp: 54.043°C, CPU Usage: 25.2%
+🕒 Next update in 30 seconds... (Records: 203)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 27.4%
+💾 Memory Usage: 14.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24420.8 KB
+📡 Network TX: 10819.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:30:28
+   CPU Temp: 54.53°C, CPU Usage: 27.4%
+🕒 Next update in 30 seconds... (Records: 204)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 9.3%
+💾 Memory Usage: 14.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24444.6 KB
+📡 Network TX: 10851.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:30:59
+   CPU Temp: 53.069°C, CPU Usage: 9.3%
+🕒 Next update in 30 seconds... (Records: 205)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 57.0°C
+⚡ CPU Usage: 9.4%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24493.9 KB
+📡 Network TX: 10897.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:31:30
+   CPU Temp: 56.965°C, CPU Usage: 9.4%
+🕒 Next update in 30 seconds... (Records: 206)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 20.2%
+💾 Memory Usage: 14.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24500.5 KB
+📡 Network TX: 10907.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:32:01
+   CPU Temp: 54.53°C, CPU Usage: 20.2%
+🕒 Next update in 30 seconds... (Records: 207)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 19.4%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24504.9 KB
+📡 Network TX: 10918.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:32:32
+   CPU Temp: 53.556°C, CPU Usage: 19.4%
+🕒 Next update in 30 seconds... (Records: 208)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 15.4%
+💾 Memory Usage: 14.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24506.7 KB
+📡 Network TX: 10923.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:33:03
+   CPU Temp: 55.017°C, CPU Usage: 15.4%
+🕒 Next update in 30 seconds... (Records: 209)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 2.3%
+💾 Memory Usage: 14.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24511.4 KB
+📡 Network TX: 10929.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:33:34
+   CPU Temp: 53.556°C, CPU Usage: 2.3%
+🕒 Next update in 30 seconds... (Records: 210)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 1.7%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24513.3 KB
+📡 Network TX: 10933.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:34:05
+   CPU Temp: 52.582°C, CPU Usage: 1.7%
+🕒 Next update in 30 seconds... (Records: 211)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.6°C
+⚡ CPU Usage: 2.3%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 24535.9 KB
+📡 Network TX: 10968.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:34:36
+   CPU Temp: 51.608°C, CPU Usage: 2.3%
+🕒 Next update in 30 seconds... (Records: 212)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 26.9%
+💾 Memory Usage: 14.4%
+💿 Disk Usage: 26.5%
+📡 Network RX: 38176.7 KB
+📡 Network TX: 11298.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:35:08
+   CPU Temp: 52.095°C, CPU Usage: 26.9%
+🕒 Next update in 30 seconds... (Records: 213)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 2.3%
+💾 Memory Usage: 14.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38178.6 KB
+📡 Network TX: 11301.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:35:39
+   CPU Temp: 52.095°C, CPU Usage: 2.3%
+🕒 Next update in 30 seconds... (Records: 214)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 50.6°C
+⚡ CPU Usage: 1.5%
+💾 Memory Usage: 14.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38180.7 KB
+📡 Network TX: 11305.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:36:10
+   CPU Temp: 50.634°C, CPU Usage: 1.5%
+🕒 Next update in 30 seconds... (Records: 215)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 16.7%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38182.4 KB
+📡 Network TX: 11314.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:36:41
+   CPU Temp: 52.095°C, CPU Usage: 16.7%
+🕒 Next update in 30 seconds... (Records: 216)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 6.8%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38191.1 KB
+📡 Network TX: 11327.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:37:12
+   CPU Temp: 52.095°C, CPU Usage: 6.8%
+🕒 Next update in 30 seconds... (Records: 217)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 22.1%
+💾 Memory Usage: 14.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38210.4 KB
+📡 Network TX: 11352.8 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:37:43
+   CPU Temp: 54.043°C, CPU Usage: 22.1%
+🕒 Next update in 30 seconds... (Records: 218)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.1°C
+⚡ CPU Usage: 1.0%
+💾 Memory Usage: 14.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38251.8 KB
+📡 Network TX: 11387.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:38:14
+   CPU Temp: 53.069°C, CPU Usage: 1.0%
+🕒 Next update in 30 seconds... (Records: 219)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 1.5%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38258.7 KB
+📡 Network TX: 11402.3 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:38:45
+   CPU Temp: 52.095°C, CPU Usage: 1.5%
+🕒 Next update in 30 seconds... (Records: 220)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 50.6°C
+⚡ CPU Usage: 0.0%
+💾 Memory Usage: 14.2%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38260.6 KB
+📡 Network TX: 11406.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:39:16
+   CPU Temp: 50.634°C, CPU Usage: 0.0%
+🕒 Next update in 30 seconds... (Records: 221)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 16.0%
+💾 Memory Usage: 14.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38262.4 KB
+📡 Network TX: 11409.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:39:47
+   CPU Temp: 52.582°C, CPU Usage: 16.0%
+🕒 Next update in 30 seconds... (Records: 222)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 28.5%
+💾 Memory Usage: 14.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38269.4 KB
+📡 Network TX: 11419.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:40:18
+   CPU Temp: 54.53°C, CPU Usage: 28.5%
+🕒 Next update in 30 seconds... (Records: 223)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.0°C
+⚡ CPU Usage: 36.5%
+💾 Memory Usage: 14.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38291.3 KB
+📡 Network TX: 11456.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:40:49
+   CPU Temp: 55.991°C, CPU Usage: 36.5%
+🕒 Next update in 30 seconds... (Records: 224)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.6°C
+⚡ CPU Usage: 2.3%
+💾 Memory Usage: 14.4%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38320.2 KB
+📡 Network TX: 11481.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:41:20
+   CPU Temp: 52.582°C, CPU Usage: 2.3%
+🕒 Next update in 30 seconds... (Records: 225)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.5°C
+⚡ CPU Usage: 32.7%
+💾 Memory Usage: 14.5%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38349.4 KB
+📡 Network TX: 11513.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:41:51
+   CPU Temp: 55.504°C, CPU Usage: 32.7%
+🕒 Next update in 30 seconds... (Records: 226)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 10.0%
+💾 Memory Usage: 14.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 38423.2 KB
+📡 Network TX: 11574.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:42:22
+   CPU Temp: 54.53°C, CPU Usage: 10.0%
+🕒 Next update in 30 seconds... (Records: 227)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.5°C
+⚡ CPU Usage: 9.5%
+💾 Memory Usage: 14.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 43051.2 KB
+📡 Network TX: 11756.1 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:42:53
+   CPU Temp: 54.53°C, CPU Usage: 9.5%
+🕒 Next update in 30 seconds... (Records: 228)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 1.2%
+💾 Memory Usage: 13.7%
+💿 Disk Usage: 26.3%
+📡 Network RX: 43145.2 KB
+📡 Network TX: 11810.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:43:24
+   CPU Temp: 52.095°C, CPU Usage: 1.2%
+🕒 Next update in 30 seconds... (Records: 229)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.5°C
+⚡ CPU Usage: 33.5%
+💾 Memory Usage: 14.6%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46106.9 KB
+📡 Network TX: 11938.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:43:55
+   CPU Temp: 55.504°C, CPU Usage: 33.5%
+🕒 Next update in 30 seconds... (Records: 230)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 16.3%
+💾 Memory Usage: 13.9%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46138.9 KB
+📡 Network TX: 11972.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:44:26
+   CPU Temp: 53.556°C, CPU Usage: 16.3%
+🕒 Next update in 30 seconds... (Records: 231)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 56.5°C
+⚡ CPU Usage: 21.3%
+💾 Memory Usage: 14.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46185.8 KB
+📡 Network TX: 12023.7 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:44:57
+   CPU Temp: 56.478°C, CPU Usage: 21.3%
+🕒 Next update in 30 seconds... (Records: 232)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 9.6%
+💾 Memory Usage: 14.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46195.3 KB
+📡 Network TX: 12036.2 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:45:28
+   CPU Temp: 54.043°C, CPU Usage: 9.6%
+🕒 Next update in 30 seconds... (Records: 233)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 54.0°C
+⚡ CPU Usage: 15.8%
+💾 Memory Usage: 14.1%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46203.5 KB
+📡 Network TX: 12046.4 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:45:59
+   CPU Temp: 54.043°C, CPU Usage: 15.8%
+🕒 Next update in 30 seconds... (Records: 234)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 53.6°C
+⚡ CPU Usage: 14.1%
+💾 Memory Usage: 14.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46206.3 KB
+📡 Network TX: 12052.9 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:46:30
+   CPU Temp: 53.556°C, CPU Usage: 14.1%
+🕒 Next update in 30 seconds... (Records: 235)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 55.0°C
+⚡ CPU Usage: 35.9%
+💾 Memory Usage: 14.3%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46218.4 KB
+📡 Network TX: 12075.0 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:47:01
+   CPU Temp: 55.017°C, CPU Usage: 35.9%
+🕒 Next update in 30 seconds... (Records: 236)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 52.1°C
+⚡ CPU Usage: 0.5%
+💾 Memory Usage: 14.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46247.1 KB
+📡 Network TX: 12099.6 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:47:32
+   CPU Temp: 52.095°C, CPU Usage: 0.5%
+🕒 Next update in 30 seconds... (Records: 237)
+
+
+==================================================
+📈 CM4 SYSTEM STATISTICS
+==================================================
+🖥️  CPU Temperature: 51.1°C
+⚡ CPU Usage: 0.3%
+💾 Memory Usage: 14.0%
+💿 Disk Usage: 26.3%
+📡 Network RX: 46257.1 KB
+📡 Network TX: 12112.5 KB
+==================================================
+📊 Metrics inserted at 2025-10-30 10:48:03
+   CPU Temp: 51.121°C, CPU Usage: 0.3%
+🕒 Next update in 30 seconds... (Records: 238)
+
