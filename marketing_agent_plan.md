@@ -7,13 +7,43 @@ This plan is optimized for **Ahmad Kamil** (working full-time at Nexperia) to bu
 
 ---
 
+## ✅ Quick Action Checklist (Start Here!)
+
+### Phase 0: Local Setup (Do This First!)
+- [ ] Copy `.env.example` → `.env` and set database password
+- [ ] Run `docker-compose up -d` to start Odoo + PostgreSQL
+- [ ] Verify Odoo loads at `http://localhost:8069`
+
+### Phase 1: n8n & Meta Connection
+- [ ] Expose n8n via Nginx Proxy Manager (subdomain: `n8n.kebundata.my`)
+- [ ] Create Meta Developer App for Lead Ads
+- [ ] Build n8n Webhook trigger for Meta leads
+- [ ] Test with a sample lead submission
+
+### Phase 2: AI Qualification
+- [ ] Ensure Hermes Agent API is running and reachable
+- [ ] Design the system prompt for lead classification
+- [ ] Build n8n → Hermes HTTP request node
+
+### Phase 3: Odoo CRM Integration
+- [ ] Configure Odoo external API in n8n
+- [ ] Create automated lead/opportunity entries in Odoo
+- [ ] Set up messaging node (Gmail/WhatsApp)
+
+### Phase 4: Testing & Launch
+- [ ] Run end-to-end test with sample leads
+- [ ] Set up admin alerts (Telegram/Email)
+- [ ] Go live!
+
+---
+
 ## Week-by-Week Roadmap
 
 ### 📅 Week 1: Meta-to-n8n connection (The "Senses")
 * **Time Target:** 5 hours (Evenings)
 * **Objectives:** Make sure a lead submission on Facebook/Instagram immediately reaches your OCI server.
 * **Tasks:**
-  1. **Expose n8n with SSL:** In your OCI Nginx Proxy Manager, configure a domain/subdomain (e.g. `n8n.kebundata.my`) to route traffic securely to your running `n8n` container.
+  1. **[DONE] Expose n8n with SSL:** In your OCI Nginx Proxy Manager, configure a domain/subdomain (e.g. `n8n.kebundata.my`) to route traffic securely to your running `n8n` container.
   2. **Set up Meta Developer App:** Create a Facebook Developer account, create an App, and configure **Webhooks** for Lead Ads.
   3. **Build trigger workflow:** In n8n, add a Webhook trigger node. Verify that submitting a test lead on Facebook triggers your n8n workflow.
 
