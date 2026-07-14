@@ -9,6 +9,15 @@ This plan is optimized for **Ahmad Kamil** (working full-time at Nexperia) to bu
 
 ## ✅ Quick Action Checklist (Start Here!)
 
+### 🌾 Optional Phase 5: Smart Farming IoT Data Integration
+- [ ] Define the IoT data model: farm, field, sensor, reading, alert, irrigation event
+- [ ] Choose the ingestion path: MQTT, HTTP API, or LoRaWAN gateway
+- [ ] Create a Python ingestion service to receive and validate sensor data
+- [ ] Store raw readings in PostgreSQL/TimescaleDB and images in object storage
+- [ ] Build an Odoo custom module to show farms, sensors, alerts, and historical trends
+- [ ] Connect alerts to n8n so irrigation, temperature, or humidity anomalies trigger actions
+- [ ] Add dashboards for field health and predictive maintenance
+
 ### Phase 0: Local Setup (Do This First!)
 - [ ] Copy `.env.example` → `.env` and set database password
 - [ ] Run `docker-compose up -d` to start Odoo + PostgreSQL
