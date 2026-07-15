@@ -27,19 +27,19 @@ This plan is optimized for **Ahmad Kamil** to build, test, and deploy an automat
 - [ ] Add dashboards for field health and predictive maintenance
 
 ### Phase 0: Validation & Existing Stack Check
-- [ ] Confirm the existing Odoo 18 multi-container Docker stack is already running on **robotpeople**
+- [x] Confirm the existing Odoo 18 multi-container Docker stack is already running on **robotpeople** (Confirmed: `odoo18-odoo-1` & `odoo18-db-1` have been Up for 7 weeks!)
 - [ ] Verify the custom volume mapping `./addons:/mnt/extra-addons` is active inside the `odoo18-odoo-1` container
 - [ ] Confirm the Docker bridge network between the new `n8n` container and Odoo allows internal RPC/API communication on **robotpeople**
 - [ ] Validate Odoo RPC credentials and endpoint reachability from the new `n8n` container
 
 ### Phase 1: n8n & Meta Connection
-- [ ] Deploy `n8n` on **robotpeople** and expose it through an internal route or local reverse proxy (for example, `http://robotpeople:5678` or an internal hostname)
+- [x] Deploy `n8n` on **robotpeople** and expose it through an internal route or local reverse proxy (Confirmed: `n8n_automation` is Up for 7 weeks on port `5678` & `nginx-proxy-manager` is Up!)
 - [ ] Create Meta Developer App for Lead Ads
 - [ ] Build n8n Webhook trigger for Meta leads
 - [ ] Test with a sample lead submission from the local Windows environment
 
 ### Phase 2: AI Qualification
-- [ ] Ensure Hermes Agent API is reachable from `n8n` over the **robotpeople** Docker network
+- [x] Ensure Hermes Agent API is reachable from `n8n` over the **robotpeople** Docker network (Confirmed: `hermes-agent` container is Up for 4 weeks!)
 - [ ] Design the system prompt for lead classification
 - [ ] Build n8n → Hermes HTTP request node
 
