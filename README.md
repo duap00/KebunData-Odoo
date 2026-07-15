@@ -23,7 +23,9 @@ A comprehensive **Odoo 18.0 + n8n + Hermes AI** system deployed on **Oracle Clou
    ```bash
    docker-compose up -d
    ```
-3. Access Odoo at `http://localhost:8069`
+3. Access your services via your domain (configured through Nginx Proxy Manager):
+   - **Odoo ERP:** `https://erp.kebundata.my` (or local port `http://localhost:8069`)
+   - **n8n Automation:** `https://n8n.kebundata.my` (or local port `http://localhost:5678`)
 
 ---
 
