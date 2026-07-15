@@ -16,6 +16,7 @@ services:
       - HOST=db
       - USER=odoo
       - PASSWORD=${DB_PASSWORD}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD}
     restart: always
 
   db:
