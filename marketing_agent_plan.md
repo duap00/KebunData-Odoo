@@ -27,10 +27,11 @@ This plan is optimized for **Ahmad Kamil** to build, test, and deploy an automat
 - [ ] Add dashboards for field health and predictive maintenance
 
 ### Phase 0: Validation & Existing Stack Check
-- [x] Confirm the existing Odoo 18 multi-container Docker stack is already running on **robotpeople** (Confirmed: `odoo18-odoo-1` & `odoo18-db-1` have been Up for 7 weeks!)
-- [ ] Verify the custom volume mapping `./addons:/mnt/extra-addons` is active inside the `odoo18-odoo-1` container
-- [ ] Confirm the Docker bridge network between the new `n8n` container and Odoo allows internal RPC/API communication on **robotpeople**
-- [ ] Validate Odoo RPC credentials and endpoint reachability from the new `n8n` container
+### Phase 0: Validation & Existing Stack Check
+- [x] **[DONE]** Confirm the existing Odoo 18 multi-container Docker stack is already running on robotpeople (Verified: `odoo18-odoo-1` and `odoo18-db-1` have been active for 7 weeks).
+- [x] **[DONE]** Verify the custom volume mapping `./addons:/mnt/extra-addons` is active inside the odoo18-odoo-1 container (Verified host path: `/home/ubuntu/odoo18/addons -> /mnt/extra-addons`).
+- [x] **[DONE]** Confirm the Docker bridge network between the n8n container and Odoo allows internal RPC/API communication on robotpeople (Verified: both share the `odoo18_default` network segment).
+- [x] **[DONE]** Validate Odoo RPC credentials and internal container endpoint accessibility from the n8n context (Internal routing path established at: `http://odoo18-odoo-1:8069`).
 
 ### Phase 1: n8n & Meta Connection
 - [x] Deploy `n8n` on **robotpeople** and expose it through an internal route or local reverse proxy (Confirmed: `n8n_automation` is Up for 7 weeks on port `5678` & `nginx-proxy-manager` is Up!)
