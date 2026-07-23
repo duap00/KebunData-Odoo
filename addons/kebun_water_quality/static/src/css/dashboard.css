@@ -1,0 +1,169 @@
+.kebun-wq-dashboard {
+  min-height: 100%;
+  background: #f8fbff;
+  color: #1f2937;
+  padding: 2.5rem 1rem 4rem;
+  font-family: Inter, "Segoe UI", sans-serif;
+}
+
+.kebun-wq-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.kebun-wq-hero-title {
+  margin: 0;
+  font-size: clamp(2.25rem, 3vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.kebun-wq-subtitle {
+  margin: 0.75rem 0 0;
+  color: #566674;
+  max-width: 56rem;
+  line-height: 1.7;
+}
+
+.kebun-wq-topcards,
+.kebun-wq-chart-grid,
+.kebun-wq-status-grid,
+.kebun-wq-alerts {
+  display: grid;
+  gap: 1rem;
+}
+
+.kebun-wq-topcards {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.kebun-wq-chart-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.kebun-wq-status-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.kebun-wq-card,
+.kebun-wq-chart-card,
+.kebun-wq-device-card,
+.kebun-wq-alert-card {
+  background: #ffffff;
+  border-radius: 1.5rem;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.08);
+  padding: 1.45rem;
+}
+
+.kebun-wq-card-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #6b7280;
+  margin-bottom: 1rem;
+}
+
+.kebun-wq-card-value {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  font-size: clamp(1.75rem, 2vw, 2.4rem);
+  font-weight: 800;
+}
+
+.kebun-wq-card-unit {
+  color: #64748b;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.kebun-wq-chart-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 380px;
+}
+
+.kebun-wq-chart-card-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  align-items: baseline;
+  margin-bottom: 1rem;
+}
+
+.kebun-wq-chart-card header h4,
+.kebun-wq-chart-card-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.kebun-wq-chart-card-meta {
+  color: #64748b;
+  font-size: 0.85rem;
+}
+
+.kebun-wq-chart-canvas {
+  flex: 1;
+  min-height: 230px;
+  position: relative;
+}
+
+.kebun-wq-chart-canvas canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.kebun-wq-trend { color: #15803d; font-weight: 700; }
+
+.kebun-wq-device-card {
+  display: grid;
+  gap: 1rem;
+}
+
+.kebun-wq-device-card .status-row,
+.kebun-wq-alert-card ul {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.kebun-wq-device-status {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.kebun-wq-alert-card h4 { margin-bottom: 1rem; }
+
+.kebun-wq-alert-card ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.kebun-wq-alert-card li {
+  background: #f5f3ff;
+  border-radius: 1rem;
+  padding: 0.85rem 1rem;
+  color: #4338ca;
+  font-weight: 700;
+}
+
+@media (max-width: 1200px) {
+  .kebun-wq-topcards,
+  .kebun-wq-chart-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .kebun-wq-header { flex-direction: column; align-items: flex-start; }
+  .kebun-wq-topcards,
+  .kebun-wq-chart-grid,
+  .kebun-wq-status-grid { grid-template-columns: 1fr; }
+}

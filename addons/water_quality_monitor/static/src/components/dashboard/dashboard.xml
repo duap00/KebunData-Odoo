@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="water_quality_monitor.Dashboard">
+        <main class="o_wqm_dashboard" t-att-data-revision="state.revision" t-ref="chartRoot">
+            <header class="wqm-header">
+                <div>
+                    <p class="wqm-eyebrow">INDUSTRIAL IOT · LIVE TELEMETRY</p>
+                    <h1>Water Quality Monitoring</h1>
+                </div>
+                <div class="wqm-header-meta">
+                    <div class="wqm-time"><i class="fa fa-clock-o"/> <t t-esc="state.currentTime"/></div>
+                    <div class="wqm-connection"><span class="wqm-live-dot"/> Connected</div>
+                </div>
+            </header>
+
+            <section class="wqm-charts-grid" aria-label="Water quality trend charts">
+                <article t-foreach="state.metrics" t-as="metric" t-key="metric.key" t-att-data-sensor="metric.key" class="wqm-chart-card">
+                    <div class="wqm-chart-card-header">
+                        <div>
+                            <p><t t-esc="metric.title"/></p>
+                            <h3><t t-esc="metric.label"/></h3>
+                        </div>
+                        <span class="wqm-chart-updated">Updated <t t-esc="state.updatedAt"/></span>
+                    </div>
+                    <div class="wqm-chart-value">
+                        <strong><t t-esc="metric.value"/></strong>
+                        <small><t t-esc="metric.unit"/></small>
+                    </div>
+                    <div class="wqm-chart-wrapper wqm-sensor-chart">
+                        <canvas></canvas>
+                    </div>
+                    <div class="wqm-chart-footer">
+                        <span t-att-class="'wqm-status wqm-status--' + metric.status"><t t-esc="metric.status"/></span>
+                        <span class="wqm-trend"><t t-esc="metric.trend"/></span>
+                    </div>
+                </article>
+            </section>
+        </main>
+    </t>
+
+    <t t-name="water_quality_monitor.LiveComparisonChart">
+        <div class="wqm-comparison-chart" role="img" aria-label="Live water quality comparison line chart">
+            <canvas t-ref="canvas"></canvas>
+            <div class="wqm-chart-controls">
+                <span><i class="fa fa-arrows"/> Scroll to zoom · drag to pan</span>
+                <button class="btn btn-link btn-sm" type="button" t-on-click="resetZoom">Reset zoom</button>
+            </div>
+        </div>
+    </t>
+</templates>

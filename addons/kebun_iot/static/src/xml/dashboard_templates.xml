@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+  <t t-name="kebun_iot.Dashboard">
+    <main class="kebun-wq-dashboard" t-ref="root">
+      <section class="kebun-wq-header">
+        <div>
+          <p class="text-uppercase text-success fw-bold mb-2">KebunData Water Quality</p>
+          <h1 class="kebun-wq-hero-title">Live Water Quality Monitoring</h1>
+          <p class="kebun-wq-subtitle">A modern monitoring dashboard for pH, EC, TDS, Salinity, Specific Gravity and Temperature. Simulated sensor data now, real IoT integration later.</p>
+        </div>
+        <div class="kebun-wq-device-card kebun-wq-card">
+          <div>
+            <span class="kebun-wq-card-title">Device Name</span>
+            <p class="kebun-wq-card-value">KebunData Water Sensor</p>
+          </div>
+          <div class="status-row">
+            <div class="kebun-wq-device-status"><span class="kebun-wq-card-title">Status</span><p>Online</p></div>
+            <div class="kebun-wq-device-status"><span class="kebun-wq-card-title">Battery</span><p>92%</p></div>
+            <div class="kebun-wq-device-status"><span class="kebun-wq-card-title">Signal</span><p>Excellent</p></div>
+            <div class="kebun-wq-device-status"><span class="kebun-wq-card-title">Last Sync</span><p>2 seconds ago</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="kebun-wq-topcards">
+        <article class="kebun-wq-card">
+          <span class="kebun-wq-card-title">Average pH</span>
+          <p class="kebun-wq-card-value">7.23<span class="kebun-wq-card-unit"></span></p>
+        </article>
+        <article class="kebun-wq-card">
+          <span class="kebun-wq-card-title">Average Temperature</span>
+          <p class="kebun-wq-card-value">25.8<span class="kebun-wq-card-unit">°C</span></p>
+        </article>
+        <article class="kebun-wq-card">
+          <span class="kebun-wq-card-title">Average EC</span>
+          <p class="kebun-wq-card-value">512<span class="kebun-wq-card-unit">µS/cm</span></p>
+        </article>
+        <article class="kebun-wq-card">
+          <span class="kebun-wq-card-title">Average TDS</span>
+          <p class="kebun-wq-card-value">268<span class="kebun-wq-card-unit">ppm</span></p>
+        </article>
+      </section>
+
+      <section class="kebun-wq-status-grid">
+        <article class="kebun-wq-card kebun-wq-alert-card">
+          <h4>Alerts</h4>
+          <ul>
+            <li>Temperature High</li>
+            <li>Low pH</li>
+            <li>High EC</li>
+          </ul>
+        </article>
+        <article class="kebun-wq-card kebun-wq-alert-card">
+          <h4>Device Health</h4>
+          <ul>
+            <li>Sensor network stable</li>
+            <li>Battery healthy</li>
+            <li>Telemetry latency low</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="kebun-wq-chart-grid">
+        <article t-foreach="state.metrics" t-as="metric" t-key="metric.key" t-att-data-sensor="metric.key" class="kebun-wq-chart-card kebun-wq-card">
+          <div class="kebun-wq-chart-card-header">
+            <div>
+              <span class="kebun-wq-card-title"><t t-esc="metric.title"/></span>
+              <h4 class="kebun-wq-chart-card-title"><t t-esc="metric.label"/></h4>
+            </div>
+            <span class="kebun-wq-chart-card-meta">Updated <t t-esc="state.updatedAt"/></span>
+          </div>
+          <div class="kebun-wq-card-value"><strong><t t-esc="metric.value"/></strong><span class="kebun-wq-card-unit"><t t-esc="metric.unit"/></span></div>
+          <div class="kebun-wq-chart-canvas"><canvas/></div>
+          <div class="kebun-wq-chart-footer"><span t-att-class="'wqm-status wqm-status--' + metric.status"><t t-esc="metric.status"/></span><span class="kebun-wq-trend"><t t-esc="metric.trend"/></span></div>
+        </article>
+      </section>
+    </main>
+  </t>
+</templates>

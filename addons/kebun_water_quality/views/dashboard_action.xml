@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="action_kebun_iotold_dashboard" model="ir.actions.client">
+        <field name="name">Water Quality Monitoring</field>
+        <field name="tag">kebun_iotold.dashboard</field>
+    </record>
+
+    <menuitem id="menu_kebun_solutions_root" name="Solutions" sequence="10"/>
+    <menuitem id="menu_kebun_iotold" name="Water Quality" parent="menu_kebun_solutions_root" sequence="5" action="action_kebun_iotold_dashboard"/>
+</odoo>
