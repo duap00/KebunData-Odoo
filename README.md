@@ -1,68 +1,101 @@
-# KebunData ERP & AI Marketing Agent
+# KebunData ERP, AI, and IoT Dashboard
 
-A comprehensive **Odoo 18.0 + n8n + Hermes AI** system deployed on **Oracle Cloud Infrastructure (OCI)** to automate lead generation, CRM management, and AI-driven marketing workflows.
-
----
-
-## 📋 Quick Links
-
-- **Architecture & Design:** See [project_blueprint.md](project_blueprint.md)
-- **Implementation Roadmap:** See [marketing_agent_plan.md](marketing_agent_plan.md)
+This repository is the working codebase for the KebunData Odoo 18 stack, combining ERP, AI automation, and smart farming telemetry with a live water-quality monitoring dashboard.
 
 ---
 
-## 🚀 Getting Started
+## 📌 Current Scope
 
-### Prerequisites
-- Docker & Docker Compose installed
-- `.env` file configured with your OCI credentials (see `.env.example`)
-
-### Setup
-1. Copy `.env.example` to `.env` and fill in your credentials
-2. Start the stack:
-   ```bash
-   docker-compose up -d
-   ```
-3. Access your services via your domain (configured through Nginx Proxy Manager):
-   - **Odoo ERP:** `https://kebundata.my` (or local port `http://localhost:8069`)
-   - **n8n Automation:** `https://n8n.kebundata.my` (or local port `http://localhost:5678`)
-
-   
+- Odoo 18 Community environment with Docker Compose
+- OCI + GitHub integration for repo deployment and version control
+- Custom Odoo addon development for smart farming and sensor telemetry
+- Live water quality dashboard using Odoo OWL + Chart.js
+- Website-facing solution page for the monitoring experience
 
 ---
 
-## 📦 Project Structure
+## 🚀 Main Work in Progress
 
-```
+### Active Odoo Module
+- `addons/kebun_iot/`
+  - Custom module for the IoT dashboard and simulation service
+  - Assets include a live dashboard, sensor data service, and website templates
+  - Backend action/menu wiring exists for the monitoring UI
+
+### Related Addons
+- `addons/water_quality_monitor/`
+  - Existing frontend dashboard prototype for water-quality monitoring
+- `addons/kebun_water_quality/`
+  - Copy of the previous dashboard module structure, kept as a reference during migration
+
+### Current Dashboard Behavior
+- Six independent live metric charts
+- Simulated sensor telemetry with gradual drift and realistic snapshot behavior
+- Live value, trend, and status badges for:
+  - pH
+  - EC
+  - TDS
+  - Salinity
+  - Specific Gravity
+  - Temperature
+
+---
+
+## 🧩 Repository Notes
+
+### Container / Odoo Configuration
+- The stack is expected to run from the Docker Compose setup at the repo root.
+- The Odoo addon directory is being mounted and loaded through the Odoo configuration.
+- The repository is now linked to GitHub and pushed to the `main` branch.
+
+### Deployment Path
+- GitHub is used as the source of truth.
+- OCI can be connected to this repository for deployment or code sync.
+
+---
+
+## 📁 Project Structure
+
+```text
 .
-├── docker-compose.yml       # Odoo 18.0 + PostgreSQL 15 stack
-├── config/                  # Odoo configuration files
-├── addons/                  # Custom Odoo modules (e.g., kebundata_gantt_view)
-├── .env.example             # Environment variables template
-├── project_blueprint.md     # System architecture & component breakdown
-└── marketing_agent_plan.md  # 4-week AI Marketing Agent roadmap
+├── docker-compose.yml
+├── config/
+├── addons/
+│   ├── kebun_iot/
+│   ├── water_quality_monitor/
+│   └── kebun_water_quality/
+├── project_blueprint.md
+└── marketing_agent_plan.md
 ```
 
 ---
 
-## 🎯 Current Status
+## ✅ Current Status
 
-**Phase 1: Infrastructure Setup** (In Progress)
-- Odoo Docker environment
-- PostgreSQL database
-- n8n workflow engine configuration
+### Completed
+- GitHub repository push completed for the current working changes
+- Dashboard UI and JS assets prepared under `kebun_iot`
+- Sensor service simulation logic implemented
+- Website and backend action wiring prepared for the module
 
-Next milestones:
-- Week 1: Meta-to-n8n connection
-- Week 2: AI qualification engine
-- Week 3: Odoo CRM sync
-- Week 4: End-to-end testing & go-live
-
-For detailed weekly tasks, see [marketing_agent_plan.md](marketing_agent_plan.md).
+### In Progress
+- Final module cleanup and naming consistency
+- Confirmation of manifest and asset registration in Odoo
+- Migration from legacy `kebun_water_quality` naming to the active `kebun_iot` module path
 
 ---
 
-## 📞 Support
+## 🔗 Related Docs
 
-For questions about the architecture, refer to [project_blueprint.md](project_blueprint.md).
-For step-by-step tasks and deadlines, refer to [marketing_agent_plan.md](marketing_agent_plan.md).
+- Architecture blueprint: [project_blueprint.md](project_blueprint.md)
+- Marketing automation roadmap: [marketing_agent_plan.md](marketing_agent_plan.md)
+
+---
+
+## ▶️ Suggested Next Step
+
+1. Verify the Odoo addon loads correctly from the OCI / Docker runtime.
+2. Install the `kebun_iot` module in Odoo Apps.
+3. Open the dashboard action and confirm the six live charts render correctly.
+4. Continue migration cleanup until the legacy addon naming is fully removed.
+
