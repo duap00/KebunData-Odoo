@@ -1,16 +1,21 @@
 # KebunData ERP, AI, and IoT Dashboard
 
-This repository is the working codebase for the KebunData Odoo 18 stack, combining ERP, AI automation, and smart farming telemetry with a live water-quality monitoring dashboard.
+![Odoo 18](https://img.shields.io/badge/Odoo-18.0_Community-714B67?style=flat-square&logo=odoo)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker)
+![OCI](https://img.shields.io/badge/OCI-Oracle_Cloud-F80000?style=flat-square&logo=oracle)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)
+
+This repository serves as the core codebase for the **KebunData Odoo 18** platform—integrating ERP business logic, Agentic AI automation, and smart farming telemetry with a real-time water-quality monitoring dashboard.
 
 ---
 
 ## 📌 Current Scope
 
-- Odoo 18 Community environment with Docker Compose
-- OCI + GitHub integration for repo deployment and version control
-- Custom Odoo addon development for smart farming and sensor telemetry
-- Live water quality dashboard using Odoo OWL + Chart.js
-- Website-facing solution page for the monitoring experience
+- **Odoo 18 Community:** Containerized deployment using Docker Compose.
+- **OCI Infrastructure:** Cloud deployment and continuous repository sync via GitHub.
+- **IoT & Telemetry:** Custom Odoo addons for sensor data ingestion and live monitoring.
+- **OWL & Chart.js Dashboard:** Live frontend dashboard built using Odoo Web Library (OWL).
+- **Public Solution Page:** Web-facing dashboard interface for real-time farm metrics.
 
 ---
 
@@ -18,39 +23,19 @@ This repository is the working codebase for the KebunData Odoo 18 stack, combini
 
 ### Active Odoo Module
 - `addons/kebun_iot/`
-  - Custom module for the IoT dashboard and simulation service
-  - Assets include a live dashboard, sensor data service, and website templates
-  - Backend action/menu wiring exists for the monitoring UI
+  - Core module housing the IoT dashboard and sensor simulation service.
+  - Assets include live UI widgets, data streaming services, and web controller templates.
+  - Wired with Odoo backend actions and navigation menus.
 
-### Related Addons
-- `addons/water_quality_monitor/`
-  - Existing frontend dashboard prototype for water-quality monitoring
-- `addons/kebun_water_quality/`
-  - Copy of the previous dashboard module structure, kept as a reference during migration
+### Legacy / Reference Addons
+- `addons/water_quality_monitor/` and `addons/kebun_water_quality/`
+  - Frontend dashboard prototypes kept as architectural references during the migration to `kebun_iot`.
 
-### Current Dashboard Behavior
-- Six independent live metric charts
-- Simulated sensor telemetry with gradual drift and realistic snapshot behavior
-- Live value, trend, and status badges for:
-  - pH
-  - EC
-  - TDS
-  - Salinity
-  - Specific Gravity
-  - Temperature
-
----
-
-## 🧩 Repository Notes
-
-### Container / Odoo Configuration
-- The stack is expected to run from the Docker Compose setup at the repo root.
-- The Odoo addon directory is being mounted and loaded through the Odoo configuration.
-- The repository is now linked to GitHub and pushed to the `main` branch.
-
-### Deployment Path
-- GitHub is used as the source of truth.
-- OCI can be connected to this repository for deployment or code sync.
+### Live Metrics Tracked
+Simulated sensor telemetry with realistic drift snapshotting for:
+- **pH** & **EC** (Electrical Conductivity)
+- **TDS** (Total Dissolved Solids)
+- **Salinity**, **Specific Gravity**, & **Temperature**
 
 ---
 
@@ -58,44 +43,41 @@ This repository is the working codebase for the KebunData Odoo 18 stack, combini
 
 ```text
 .
-├── docker-compose.yml
-├── config/
+├── docker-compose.yml          # Container stack configuration
+├── config/                     # Odoo configuration files
 ├── addons/
-│   ├── kebun_iot/
-│   ├── water_quality_monitor/
-│   └── kebun_water_quality/
-├── project_blueprint.md
-└── marketing_agent_plan.md
+│   ├── kebun_iot/              # Main active IoT & dashboard module
+│   ├── water_quality_monitor/  # Prototype reference
+│   └── kebun_water_quality/    # Legacy module (in migration)
+├── project_blueprint.md        # Architecture & deployment docs
+└── marketing_agent_plan.md     # Agentic AI integration roadmap
 ```
 
----
+## ⚡ Quick Start
+To spin up the Odoo 18 environment locally:
 
-## ✅ Current Status
+```bash
+# Clone the repository
+git clone https://github.com/duap00/KebunData-Odoo.git
+cd KebunData-Odoo
 
-### Completed
-- GitHub repository push completed for the current working changes
-- Dashboard UI and JS assets prepared under `kebun_iot`
-- Sensor service simulation logic implemented
-- Website and backend action wiring prepared for the module
+# Launch Odoo and PostgreSQL containers
+docker compose up -d
+```
 
-### In Progress
-- Final module cleanup and naming consistency
-- Confirmation of manifest and asset registration in Odoo
-- Migration from legacy `kebun_water_quality` naming to the active `kebun_iot` module path
+Access Odoo at `http://localhost:8069` and update your App List to install `kebun_iot`.
 
----
+## ✅ Current Status & Roadmap
 
-## 🔗 Related Docs
+- [x] Initial OCI & GitHub pipeline setup.
+- [x] Dashboard UI and JS assets integrated into `kebun_iot`.
+- [x] Telemetry simulation logic and OWL/Chart.js rendering ready.
+- [ ] **In Progress:** Final module cleanup and legacy addon removal.
+- [ ] **In Progress:** Manifest and asset registration verification in Odoo 18.
+- [ ] **Next:** Agentic AI integration via n8n and OCI background tasks.
 
-- Architecture blueprint: [project_blueprint.md](project_blueprint.md)
-- Marketing automation roadmap: [marketing_agent_plan.md](marketing_agent_plan.md)
+## 🔗 Related Documentation
 
----
-
-## ▶️ Suggested Next Step
-
-1. Verify the Odoo addon loads correctly from the OCI / Docker runtime.
-2. Install the `kebun_iot` module in Odoo Apps.
-3. Open the dashboard action and confirm the six live charts render correctly.
-4. Continue migration cleanup until the legacy addon naming is fully removed.
+- 📄 [Architecture Blueprint](project_blueprint.md)
+- 📄 [Marketing & Agentic AI Plan](marketing_agent_plan.md)
 
