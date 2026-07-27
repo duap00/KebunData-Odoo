@@ -3,7 +3,7 @@ import random
 
 
 class SensorDataService(models.AbstractModel):
-    _name = "kebun_iotold.sensor_data_service"
+    _name = "kebun_water_quality.sensor_data_service"
     _description = "Sensor Data Service"
 
     SENSOR_CONFIG = {

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templates xml:space="preserve">
-  <t t-name="kebun_iotold.Dashboard">
+  <t t-name="kebun_water_quality.Dashboard">
     <main class="kebun-wq-dashboard" t-ref="root">
       <section class="kebun-wq-header">
         <div>

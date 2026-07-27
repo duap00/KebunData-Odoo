@@ -11,13 +11,13 @@
     ],
     'assets': {
         'web.assets_backend': [
-            'kebun_iotold/static/src/js/dashboard.js',
-            'kebun_iotold/static/src/js/sensor_data_service.js',
-            'kebun_iotold/static/src/css/dashboard.css',
-            'kebun_iotold/static/src/xml/dashboard_templates.xml',
+            'kebun_water_quality/static/src/js/dashboard.js',
+            'kebun_water_quality/static/src/js/sensor_data_service.js',
+            'kebun_water_quality/static/src/css/dashboard.css',
+            'kebun_water_quality/static/src/xml/dashboard_templates.xml',
         ],
         'web.assets_frontend': [
-            'kebun_iotold/static/src/css/dashboard.css',
+            'kebun_water_quality/static/src/css/dashboard.css',
         ],
     },
     'application': True,

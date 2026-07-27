@@ -16,7 +16,7 @@ const CHART_COLOR = "#18a56b";
 const CHART_FILL = "rgba(24, 165, 107, 0.12)";
 
 export class KebunWaterQualityDashboard extends Component {
-    static template = "kebun_iotold.Dashboard";
+    static template = "kebun_water_quality.Dashboard";
 
     setup() {
         this.sensorService = new SensorDataService();
@@ -127,4 +127,4 @@ export class KebunWaterQualityDashboard extends Component {
     }
 }
 
-registry.category("actions").add("kebun_iotold.dashboard", KebunWaterQualityDashboard);
+registry.category("actions").add("kebun_water_quality.dashboard", KebunWaterQualityDashboard);
