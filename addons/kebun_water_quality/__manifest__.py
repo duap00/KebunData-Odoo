@@ -14,10 +14,12 @@
             'kebun_water_quality/static/src/js/dashboard.js',
             'kebun_water_quality/static/src/js/sensor_data_service.js',
             'kebun_water_quality/static/src/css/dashboard.css',
-            'kebun_water_quality/static/src/xml/dashboard_templates.xml',
         ],
         'web.assets_frontend': [
             'kebun_water_quality/static/src/css/dashboard.css',
+            'kebun_water_quality/static/src/js/sensor_data_service.js',
+            'kebun_water_quality/static/src/js/dashboard.js',
+            'kebun_water_quality/static/src/js/website_dashboard.js',
         ],
     },
     'application': True,
