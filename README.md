@@ -70,10 +70,11 @@ Access Odoo at `http://localhost:8069` and update your App List to install `kebu
 ## ✅ Current Status & Roadmap
 
 - [x] Initial OCI & GitHub pipeline setup.
-- [x] Dashboard UI and JS assets integrated into `kebun_iot`.
-- [x] Telemetry simulation logic and OWL/Chart.js rendering ready.
-- [ ] **In Progress:** Final module cleanup and legacy addon removal.
-- [ ] **In Progress:** Manifest and asset registration verification in Odoo 18.
+- [x] Fixed `kebun_iotold` manifest asset references to `kebun_water_quality`.
+- [x] Inline OWL template (`xml` tag) and Chart.js telemetry rendering integrated into `kebun_water_quality`.
+- [x] Public `/solution` route dashboard rendering fixed with full-width layout via `publicWidget`.
+- [x] All asset declarations, ES modules (`/** @odoo-module **/`), and views committed and pushed to GitHub main branch.
+- [ ] **Next:** OCI deployment verification & live server sync (`git pull`).
 - [ ] **Next:** Agentic AI integration via n8n and OCI background tasks.
 
 ## 🔗 Related Documentation

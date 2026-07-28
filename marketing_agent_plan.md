@@ -22,9 +22,9 @@ This plan is optimized for **Ahmad Kamil** to build, test, and deploy an automat
 - [ ] Choose the ingestion path: MQTT, HTTP API, or LoRaWAN gateway
 - [ ] Create a Python ingestion service to receive and validate sensor data
 - [ ] Store raw readings in PostgreSQL/TimescaleDB and images in object storage
-- [ ] Build an Odoo custom module to show farms, sensors, alerts, and historical trends
+- [x] **[DONE]** Build an Odoo custom module (`kebun_water_quality`) to show sensors, alerts, and historical telemetry trends.
 - [ ] Connect alerts to n8n so irrigation, temperature, or humidity anomalies trigger actions
-- [ ] Add dashboards for field health and predictive maintenance
+- [x] **[DONE]** Add dashboards for live water quality metrics (pH, EC, TDS, Salinity, SG, Temp) on backend actions and public `/solution` website route.
 
 ### Phase 0: Validation & Existing Stack Check
 ### Phase 0: Validation & Existing Stack Check

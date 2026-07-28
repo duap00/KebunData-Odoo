@@ -68,9 +68,12 @@ Since these three components use completely different technology stacks, keeping
 
 ## 4. Implementation Roadmap
 
-### Phase 1: ERP Foundation (Current Step)
+### Phase 1: ERP Foundation & IoT Telemetry (Completed & Verified)
 * Finalize the Odoo Docker workspace sync so you can customize Odoo and push code safely to GitHub/OCI.
-* Configure Odoo to load your custom Gantt view module.
+* Resolved asset bundle references (`kebun_iotold` -> `kebun_water_quality`) and fixed SCSS compilation issues.
+* Created live OWL-based water quality telemetry dashboard with Chart.js integration.
+* Embedded inline OWL templates (`xml`) and `publicWidget` to render the interactive dashboard full-width on the public `/solution` website route.
+* Pushed verified codebase to GitHub for deployment on OCI (`https://kebundata.my/solution`).
 
 ### Phase 2: AI Marketing & Automation integration
 * Configure **Nginx Proxy Manager** on your OCI VM to expose Odoo, n8n, and your agents securely under your subdomains (e.g. `erp.kebundata.my`, `n8n.kebundata.my`).
