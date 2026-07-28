@@ -1,3 +1,5 @@
+/** @odoo-module **/
+
 import { Component, onMounted, onWillStart, onWillUnmount, useRef, useState } from "@odoo/owl";
 import { registry } from "@web/core/registry";
 import { loadJS } from "@web/core/assets";

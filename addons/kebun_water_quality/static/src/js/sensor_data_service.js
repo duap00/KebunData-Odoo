@@ -1,3 +1,5 @@
+/** @odoo-module **/
+
 export class SensorDataService {
     constructor() {
         this.previousValues = {
