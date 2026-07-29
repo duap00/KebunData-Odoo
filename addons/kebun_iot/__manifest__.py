@@ -3,6 +3,11 @@
     'version': '18.0.1.0.0',
     'category': 'IoT',
     'summary': 'Modern water quality monitoring dashboard for Odoo',
+{
+    'name': 'Kebun IoT',
+    'version': '18.0.1.0.0',
+    'category': 'IoT',
+    'summary': 'Modern water quality monitoring dashboard for Odoo',
     'depends': ['web', 'website'],
     'data': [
         'security/ir.model.access.csv',
@@ -14,10 +19,12 @@
             'kebun_iot/static/src/js/dashboard.js',
             'kebun_iot/static/src/js/sensor_data_service.js',
             'kebun_iot/static/src/css/dashboard.css',
-            'kebun_iot/static/src/xml/dashboard_templates.xml',
         ],
         'web.assets_frontend': [
             'kebun_iot/static/src/css/dashboard.css',
+            'kebun_iot/static/src/js/sensor_data_service.js',
+            'kebun_iot/static/src/js/dashboard.js',
+            'kebun_iot/static/src/js/website_dashboard.js',
         ],
     },
     'application': True,
